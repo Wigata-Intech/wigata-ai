@@ -1,0 +1,2 @@
+<!doctype html><html><head><title>Wigata AI</title></head><body><h1>Index</h1><p>Welcome to the index page</p>add footer and year of copyright<footer><p>Wigata AI &copy; 
+</p></footer></body></html>
